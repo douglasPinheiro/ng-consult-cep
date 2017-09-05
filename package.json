@@ -1,0 +1,24 @@
+{
+  "name": "ng-consult-cep",
+  "version": "1.0.0",
+  "description": "A small lib to consult CEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasPinheiro/ng-consult-cep.git"
+  },
+  "keywords": [
+    "CEP",
+    "Consult",
+    "correios"
+  ],
+  "author": "douglasdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douglasPinheiro/ng-consult-cep/issues"
+  },
+  "homepage": "https://github.com/douglasPinheiro/ng-consult-cep#readme"
+}
