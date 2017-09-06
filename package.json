@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/douglasPinheiro/ng-consult-cep/issues"
   },
-  "homepage": "https://github.com/douglasPinheiro/ng-consult-cep#readme"
+  "homepage": "https://github.com/douglasPinheiro/ng-consult-cep#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ngmin": "^0.3.0"
+  }
 }
